@@ -19,3 +19,8 @@ You are free to share and adapt with attribution.
 ## Attribution
 Hugh (2025) | edge-case-intelligence  
 “This is not a warning. It is an artifact.”
+---
+
+## Author Note
+
+This framework was developed through recursive thinking, symbolic architecture, and emotional cognition authored independently by Hugh. While AI tools (such as ChatGPT) were used to assist with language formatting and organizational mirroring, all core concepts, systems, terms, and structures originated from lived experience, direct insight, and intentional design. This is human work—documented with machine support, but not derived from it.
